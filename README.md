@@ -45,7 +45,7 @@ const developer = {
      <img src="https://skillicons.dev/icons?i=nextjs" />
     </a>
 </div>
-<h3>Server - BD </h3>
+<h3>Server - DB </h3>
  <div>
      <a href="https://nodejs.org/es" target="_blank">
          <img src="https://skillicons.dev/icons?i=nodejs" />
@@ -60,6 +60,7 @@ const developer = {
        <img src="https://skillicons.dev/icons?i=sequelize" />
      </a>
 </div>
+<hr/>
 <h3>📫 Contacto:</h3>
 <a href="https://www.linkedin.com/in/lucasgastoncorrea/" target="_blank">
        <img src="https://skillicons.dev/icons?i=linkedin" />
