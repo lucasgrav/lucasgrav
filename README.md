@@ -1,19 +1,27 @@
-<h1 align="center">Hola mundo👋👨‍💻</h1>
+<h1 align="center">👨‍💻Sobre mi:</h1>
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="Image" width="400px" />  
+    
+```javascript
+const saludar = () => {
+    console.log("Hola Mundo!👋")
+};
 
+saludar();
+```
 ```javascript
 const developer = {
     name: "Lucas",
     lastName: "Correa",
+    studies: true,
     code: [ React, JavaScript, TypeScript, Node]
-}
+};
 ```
-<h3>Sobre mi:</h3>
 <hr/>
   <p>Soy Desarrollador Full-Stack, en 2022 conoci el desarrollo web y desde ese año decidi dar el paso de empezar este largo viaje, despues de largas luchas de no saber como seguir 🫠 o como crecer en mi conocimiento decidi anotarme en el bootcamp de Henry, actualmente estoy en la estapa final donde debo entregar un proyecto junto con 8 developers, pero ya estoy en esta recta final! 🚀</p>
-<h3>Soft-Skills</h3>
+<h3>⚡Soft-Skills</h3>
 <hr/>
 <p>Gracias a mi antiguo trabajo como Hebanista naval, pude adquirir habilidades blandas para el trabajo en equipo, en momentos donde habia que resolver problemas dentro de alguna embarcacion pude aprender a afrontar diferentes problemas con la mente en calma y en caso de ser necesario dialogar con el equipo de trabajo para poder resolver las tareas necesarias y aportar resoluciones a diferentes situaciones, ademas tuve la experiencia de haber dialogado con diferentes clientes y llegar a acuerdos e ideas en los diferentes trabajos.</p>
-<h3>Tech-Stack | Skills :</h3>
+<h3>👨‍💻 Tech-Stack | Skills :</h3>
 <hr/>
 </pre>
 <h3>Client</h3>
@@ -49,7 +57,7 @@ const developer = {
        <img src="https://skillicons.dev/icons?i=sequelize" />
      </a>
 </div>
-<h3>Contactame:</h3>
+<h3>📫 Contacto:</h3>
 <a href="https://www.linkedin.com/in/lucasgastoncorrea/" target="_blank">
        <img src="https://skillicons.dev/icons?i=linkedin" />
      </a>
