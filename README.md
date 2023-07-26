@@ -1,7 +1,12 @@
 <h1 align="center">Hola mundo👋👨‍💻</h1>
 
-
- 
+```javascript
+const developer = {
+    name: "Lucas",
+    lastName: "Correa",
+    code: [ React, JavaScript, TypeScript, Node]
+}
+```
 <h3>Sobre mi:</h3>
 <hr/>
   <p>Soy Desarrollador Full-Stack, en 2022 conoci el desarrollo web y desde ese año decidi dar el paso de empezar este largo viaje, despues de largas luchas de no saber como seguir 🫠 o como crecer en mi conocimiento decidi anotarme en el bootcamp de Henry, actualmente estoy en la estapa final donde debo entregar un proyecto junto con 8 developers, pero ya estoy en esta recta final! 🚀</p>
