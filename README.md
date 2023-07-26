@@ -11,18 +11,31 @@
   <a href="https://developer.mozilla.org/es/docs/Web/CSS"  target="_blank">
     <img src="https://skillicons.dev/icons?i=css" />
     </a>
-        <img src="https://skillicons.dev/icons?i=javascript" />
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a> 
+    <a href="https://www.typescriptlang.org/">
     <img src="https://skillicons.dev/icons?i=typescript" />
-   <img src="https://skillicons.dev/icons?i=tailwind" />
-      <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
+    </a>
+    <a href="https://tailwindcss.com/">  <img src="https://skillicons.dev/icons?i=tailwind" /></a>
+    <a href="https://es.react.dev/">  <img src="https://skillicons.dev/icons?i=react" /></a>
+    <a href="https://nextjs.org/">
+     <img src="https://skillicons.dev/icons?i=nextjs" />
+    </a>
+ 
 </div>
 <h3>Servidor y BD </h3>
  <div>
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-   <img src="https://skillicons.dev/icons?i=express" />
-     <img src="https://skillicons.dev/icons?i=postgres" />
-        <img src="https://skillicons.dev/icons?i=sequelize" />
+     <a href="https://nodejs.org/es">
+         <img src="https://skillicons.dev/icons?i=nodejs" />
+     </a>
+     <a href="https://expressjs.com/es/">
+      <img src="https://skillicons.dev/icons?i=express" />
+     </a>
+     <a href="https://www.postgresql.org/">
+      <img src="https://skillicons.dev/icons?i=postgres" />
+     </a>    
+     <a href="https://sequelize.org/">
+       <img src="https://skillicons.dev/icons?i=sequelize" />
+     </a>
 </div>
 
   
