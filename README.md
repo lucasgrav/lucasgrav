@@ -23,7 +23,7 @@ const developer = {
   <p>Soy Desarrollador Full-Stack, en 2022 conoci el desarrollo web y desde ese año decidi dar el paso de empezar este largo viaje, despues de largas luchas de no saber como seguir 🫠 o como crecer en mi conocimiento decidi anotarme en el bootcamp de Henry, actualmente estoy en la etapa final donde debo entregar un proyecto junto con 8 developers, pero ya estoy en la recta final! 🚀</p>
 <h3>⚡Soft-Skills</h3>
 <hr/>
-<p>Gracias a mi antiguo trabajo como Hebanista naval, pude adquirir habilidades blandas para el trabajo en equipo, en momentos donde habia que resolver problemas dentro de alguna embarcacion pude aprender a afrontar diferentes problemas con la mente en calma y en caso de ser necesario dialogar con el equipo de trabajo para poder resolver las tareas necesarias y aportar resoluciones a diferentes situaciones, ademas tuve la experiencia de haber dialogado con diferentes clientes y llegar a acuerdos e ideas en los diferentes trabajos.</p>
+<p>Gracias a mi antiguo trabajo como Ebanista naval, pude adquirir habilidades blandas para el trabajo en equipo, en momentos donde habia que resolver problemas dentro de alguna embarcacion pude aprender a afrontar diferentes problemas con la mente en calma y en caso de ser necesario dialogar con el equipo de trabajo para poder resolver las tareas necesarias y aportar resoluciones a diferentes situaciones, ademas tuve la experiencia de haber dialogado con diferentes clientes y llegar a acuerdos e ideas en los diferentes trabajos.</p>
 <h3>👨‍💻 Tech-Stack | Skills :</h3>
 <hr/>
 </pre>
