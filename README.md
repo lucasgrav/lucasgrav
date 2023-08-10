@@ -36,9 +36,6 @@ const developer = {
     <img src="https://skillicons.dev/icons?i=css" />
     </a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" /></a> 
-    <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=typescript" />
-    </a>
     <a href="https://tailwindcss.com/" target="_blank">  <img src="https://skillicons.dev/icons?i=tailwind" /></a>
     <a href="https://es.react.dev/" target="_blank">  <img src="https://skillicons.dev/icons?i=react" /></a>
     <a href="https://nextjs.org/" target="_blank">
