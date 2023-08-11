@@ -16,7 +16,7 @@ const developer = {
     name: "Lucas",
     lastName: "Correa",
     studies: true,
-    code: [ React, JavaScript, TypeScript, Node]
+    code: [ React, JavaScript, Node]
 };
 ```
 <hr/>
