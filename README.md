@@ -20,7 +20,12 @@ const developer = {
 };
 ```
 <hr/>
-  <p>Soy Desarrollador Full-Stack, en 2022 conoci el desarrollo web y desde ese año decidi dar el paso de empezar este largo viaje, despues de largas luchas de no saber como seguir 🫠 o como crecer en mi conocimiento decidi anotarme en el bootcamp de Henry, actualmente estoy en la etapa final donde debo entregar un proyecto junto con 8 developers, pero ya estoy en la recta final! 🚀</p>
+  <p>Full Stack Developer con experiencia en Henry Bootcamp, donde adquirí habilidades sólidas en el
+desarrollo Front-End y Back-End. Tengo la habilidad para trabajar en equipo y desarrollar interfaces
+atractivas con JavaScript, React.js y Redux. Además, cuento con experiencia en el desarrollo del
+Back-End utilizando Node.js y Express, lo que me permite construir APIs robustas y escalables. En cuanto
+a bases de datos, he utilizado PostgreSQL y Sequelize para asegurar una gestión eficiente de los datos en
+mis proyectos. Tengo conocimientos en metodologías ágiles, SCRUM, GIT y Git Flow. 🚀</p>
 <h3>⚡Soft-Skills</h3>
 <hr/>
 <p>Gracias a mi antiguo trabajo como Ebanista naval, pude adquirir habilidades blandas para el trabajo en equipo, en momentos donde habia que resolver problemas dentro de alguna embarcacion pude aprender a afrontar diferentes problemas con la mente en calma y en caso de ser necesario dialogar con el equipo de trabajo para poder resolver las tareas necesarias y aportar resoluciones a diferentes situaciones, ademas tuve la experiencia de haber dialogado con diferentes clientes y llegar a acuerdos e ideas en los diferentes trabajos.</p>
