@@ -39,33 +39,12 @@ mis proyectos. Tengo conocimientos en metodologías ágiles, SCRUM, GIT y Git Fl
 </pre>
 <h3>Client</h3>
 <div>
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" /> 
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS"  target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" />
-    </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" /></a> 
-    <a href="https://tailwindcss.com/" target="_blank">  <img src="https://skillicons.dev/icons?i=tailwind" /></a>
-    <a href="https://es.react.dev/" target="_blank">  <img src="https://skillicons.dev/icons?i=react" /></a>
-    <a href="https://nextjs.org/" target="_blank">
-     <img src="https://skillicons.dev/icons?i=nextjs" />
-    </a>
+<p> HTML | CSS | JavaScript | React | Tailwind | Next JS | Vite | Redux | Vitest | Testing-Library</p>
 </div>
 <h3>Server - DB </h3>
  <div>
-     <a href="https://nodejs.org/es" target="_blank">
-         <img src="https://skillicons.dev/icons?i=nodejs" />
-     </a>
-     <a href="https://expressjs.com/es/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=express" />
-     </a>
-     <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=postgres" />
-     </a>    
-     <a href="https://sequelize.org/" target="_blank">
-       <img src="https://skillicons.dev/icons?i=sequelize" />
-     </a>
+    <p> Node | Express | PostgreSQL | Sequelize | Jest | Super-Test </p>
+  
 </div>
 <hr/>
 <h3>📫 Contacto:</h3>
