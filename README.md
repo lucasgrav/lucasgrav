@@ -1,5 +1,9 @@
 <h1 align="center">👨‍💻Sobre mi:</h1>
-<a href="https://lucascorrea.vercel.app/" target="_blank"><h2 align="center">⚡PORTFOLIO⚡</h2></a>
+<div align="center" >
+<h3><a href="https://lucascorrea.vercel.app/" target="_blank"  >⚡PORTFOLIO⚡</a>  </h3>
+</div>
+<br>
+
 <a  href="https://www.linkedin.com/in/lucasgastoncorrea/">
      <img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="Image" width="400px" />  
 </a>
