@@ -1,4 +1,5 @@
 <h1 align="center">👨‍💻Sobre mi:</h1>
+<a href="https://lucascorrea.vercel.app/" target="_blank"><h2 align="center">⚡PORTFOLIO⚡</h2></a>
 <a  href="https://www.linkedin.com/in/lucasgastoncorrea/">
      <img align="right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="Image" width="400px" />  
 </a>
@@ -20,7 +21,7 @@ const developer = {
 };
 ```
 <hr/>
-  <p>Full Stack Developer con experiencia en Henry Bootcamp, donde adquirí habilidades sólidas en el
+  <p>Full Stack Developer con habilidades sólidas en el
 desarrollo Front-End y Back-End. Tengo la habilidad para trabajar en equipo y desarrollar interfaces
 atractivas con JavaScript, React.js y Redux. Además, cuento con experiencia en el desarrollo del
 Back-End utilizando Node.js y Express, lo que me permite construir APIs robustas y escalables. En cuanto
