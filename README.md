@@ -43,7 +43,7 @@ mis proyectos. Tengo conocimientos en metodologías ágiles, SCRUM, GIT y Git Fl
 </div>
 <h3>Server - DB </h3>
  <div>
-    <p> Node | Express | PostgreSQL | Sequelize | Jest | Super-Test </p>
+    <p> Node | Express | NestJS | PostgreSQL | Sequelize | Jest | Super-Test </p>
   
 </div>
 <hr/>
