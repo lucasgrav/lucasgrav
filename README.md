@@ -21,7 +21,7 @@ const developer = {
     name: "Lucas",
     lastName: "Correa",
     studies: true,
-    code: [ React, JavaScript, Node ]
+    code: [ React, TypeScript, Node ]
 };
 ```
 <hr/>
@@ -39,7 +39,7 @@ mis proyectos. Tengo conocimientos en metodologías ágiles, SCRUM, GIT y Git Fl
 </pre>
 <h3>Client</h3>
 <div>
-<p> HTML | CSS | JavaScript | React | Tailwind | Next JS | Vite | Redux | Vitest | Testing-Library</p>
+<p> HTML | CSS | JavaScript | TypeScript | React | Tailwind | Next JS | Vite | Redux | Vitest | Testing-Library</p>
 </div>
 <h3>Server - DB </h3>
  <div>
