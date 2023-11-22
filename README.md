@@ -29,7 +29,7 @@ const developer = {
 desarrollo Front-End y Back-End. Tengo la habilidad para trabajar en equipo y desarrollar interfaces
 atractivas con JavaScript, React.js y Redux. Además, cuento con experiencia en el desarrollo del
 Back-End utilizando Node.js y Express, lo que me permite construir APIs robustas y escalables. En cuanto
-a bases de datos, he utilizado PostgreSQL y Sequelize para asegurar una gestión eficiente de los datos en
+a bases de datos, he utilizado PostgreSQL, Sequelize, MongoDB, Mongoose para asegurar una gestión eficiente de los datos en
 mis proyectos. Tengo conocimientos en metodologías ágiles, SCRUM, GIT y Git Flow. 🚀</p>
 <h3>⚡Soft-Skills</h3>
 <hr/>
@@ -43,7 +43,7 @@ mis proyectos. Tengo conocimientos en metodologías ágiles, SCRUM, GIT y Git Fl
 </div>
 <h3>Server - DB </h3>
  <div>
-    <p> Node | Express | NestJS | PostgreSQL | Sequelize | Jest | Super-Test </p>
+    <p> Node | Express | NestJS | PostgreSQL | Sequelize | MongoDB | Mongoose | Jest | Super-Test </p>
   
 </div>
 <hr/>
