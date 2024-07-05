@@ -1,7 +1,7 @@
 ## Lucas Correa 👋 
 <br>
 
-Soy un desarrollador Full Stack con experiencia en  **`React`** y  **`Node.js`**.
+Soy un desarrollador Frontend con experiencia en  **`React`** y  **`TypeScript`**.
 <br><br>
 - Complete con éxito un bootcamp de desarrollo web y diversos cursos relacionados para fortalecer mis habilidades como desarrollador.
  <br><br>
@@ -10,8 +10,6 @@ Soy un desarrollador Full Stack con experiencia en  **`React`** y  **`Node.js`**
 ## Tecnologias               
  **`TypeScript`**  **`React.js`**  **`Next.js`** **`Vite`**  **`Tailwind CSS`** **`Redux`**
  <br>
- <br>
- **`Node.js`**  **`Express`**  **`NestJS`**  **`PostgreSQL`**  **`Sequelize`**  **`MongoDB`**  **`Mongoose`** 
 
 <hr/>
  <a href="https://www.linkedin.com/in/lucasgastoncorrea/" target="_blank"> 
