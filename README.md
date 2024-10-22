@@ -1,7 +1,7 @@
-## Lucas Correa 👋 
+## Hola 👋 
 <br>
 
-Soy un desarrollador de software con experiencia en  **`React`**, **`TypeScript`** y **`Node.js`**.
+Soy Lucas Correa, un <strong>desarrollador de software</strong> con experiencia en  **`React`**, **`TypeScript`** y **`Node.js`**.
 
 - Trabaje con metodologías ágiles como **`Scrum`**, lo que me permitio colaborar estrechamente con los equipos, cumplir con los plazos y entregar resultados de manera eficiente.
   
